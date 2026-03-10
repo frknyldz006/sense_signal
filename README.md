@@ -19,6 +19,10 @@ With its sleek "Glassmorphism" UI, dynamic filtering, and real-time signal stren
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/frknyldz006/sense_signal/refs/heads/main/assets/sense-signal-inapp.jpg" width="300" alt="Sense Signal App Screenshot">
+</div>
+
 ## ✨ Key Features
 
 * 🎯 **Live Device Radar:** Continuously scans for and displays nearby Wi-Fi networks and Bluetooth BLE devices on an interactive map.
